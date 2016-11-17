@@ -1,3 +1,4 @@
+APLIKASI INI DI DIBUAT DENGAN LARAVEL 4.x
 Buat database dengan Nama : dataproposal
 kemudian import file dataproposal.sql melalui XAMPP anda
 
